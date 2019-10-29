@@ -1,6 +1,7 @@
 version: "3.1"
 services:
   server:
+    build: .
     container_name: daeneris_node
     hostname: "daeneris_node"
     restart: always
