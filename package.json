@@ -1,0 +1,10 @@
+{
+  "name": "daeneris_app",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "telegraf": "^3.28.0"
+  }
+}
